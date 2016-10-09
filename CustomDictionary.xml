@@ -1,0 +1,15 @@
+﻿<Dictionary>
+  <Words>
+    <Recognized>
+      <Word>Jeoff</Word>
+      <Word>tfs</Word>
+      <Word>DefaultCollection</Word>
+      <Word>TfsTime</Word>
+    </Recognized>
+  </Words>
+  <Acronyms>
+    <CasingExceptions>
+      <Acronym>JKH</Acronym>
+    </CasingExceptions>
+  </Acronyms>
+</Dictionary>
